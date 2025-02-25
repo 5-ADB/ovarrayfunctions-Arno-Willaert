@@ -3,3 +3,5 @@
  */
 
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
+namenlijst.push("Jef")
+console.log(namenlijst);

@@ -3,3 +3,5 @@
  */
 
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
+namenlijst.unshift("Jef")
+console.log(namenlijst);
