@@ -4,5 +4,4 @@
  *
  */
 const namenlijst = ["Karel", "Pieter", "Pol", "Stef"];
-
-namenlijst.filter
+namenlijst.filter((value)=> console.log(namenlijst.filter));
